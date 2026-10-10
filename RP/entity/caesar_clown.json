@@ -1,0 +1,21 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "punkhazard:caesar_clown",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/caesar_clown"
+      },
+      "geometry": {
+        "default": "geometry.caesar_clown"
+      },
+      "animations": {
+        "idle": "animation.caesar_clown.idle",
+        "attack": "animation.caesar_clown.attack"
+      }
+    }
+  }
+}

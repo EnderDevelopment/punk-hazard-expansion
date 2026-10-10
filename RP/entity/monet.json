@@ -1,0 +1,21 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "punkhazard:monet",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/monet"
+      },
+      "geometry": {
+        "default": "geometry.monet"
+      },
+      "animations": {
+        "idle": "animation.monet.idle",
+        "attack": "animation.monet.attack"
+      }
+    }
+  }
+}

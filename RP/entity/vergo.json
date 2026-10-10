@@ -1,0 +1,21 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "punkhazard:vergo",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/vergo"
+      },
+      "geometry": {
+        "default": "geometry.vergo"
+      },
+      "animations": {
+        "idle": "animation.vergo.idle",
+        "attack": "animation.vergo.attack"
+      }
+    }
+  }
+}
